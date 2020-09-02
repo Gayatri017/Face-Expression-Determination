@@ -1,2 +1,2 @@
-# Face-Expression-Determination
-Retriving of Human Emotions.
+# facialexp
+Facial expression detection
